@@ -1,0 +1,6 @@
+{
+  "name": "firebase-functions",
+  "scripts": {
+    "deploy": "firebase deploy --only functions"
+  }
+}
